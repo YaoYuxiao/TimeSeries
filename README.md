@@ -5,7 +5,7 @@ Yuxiao Yao
 
 To predict the monthly average of CO2 level from Mauna Loa Observatory in November, 2019.
 
-**Result: our predicted monthly average 𝐶𝑂2 level in November, 2019 is 410.23 ppm. The real value measured by Earth System Research Laboratory is 410.27 ppm.**
+**Result: our predicted monthly average 𝐶𝑂2 level in November, 2019 is 410.23 ppm. The real value measured by the Earth System Research Laboratory is 410.27 ppm.**
 
 ### Background
 
