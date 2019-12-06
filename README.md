@@ -20,7 +20,7 @@ To predict the monthly average of CO2 level from Mauna Loa Observatory in Novemb
   + We will focus on the most important greenhouse gas: Carbon Dioxide.
   
 *  Keeling Curve
-  + Named after Charles D. Keeling (1928–2005) Started monitoring CO2 at MLO from 1958. 
+  +Named after Charles D. Keeling (1928–2005) Started monitoring CO2 at MLO from 1958. 
   + Funding was ceased in 1960s and research was called “routine.” 
   + First alerted the world about the “greenhouse eﬀect” and global warming. 
   + Longest continuous record of atmospheric CO2 level. 
